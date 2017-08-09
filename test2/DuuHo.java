@@ -2,6 +2,6 @@
 public class DuuHo {
 	
 	public static void main(String args[]){
-		System.out.println("하이요");
+		System.out.println("지랄요");
 	}
 }
